@@ -1,6 +1,6 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "published": "2026-11-25",
-  "notes": "Create dataset button; generic label / registered_label folder names",
-  "download": "https://github.com/illumiSonics/dataman_releases/releases/tag/v0.3.0"
+  "notes": "Update notifications: dataman now tells you when a new version is out",
+  "download": "https://github.com/illumiSonics/dataman_releases/releases/tag/v0.4.0"
 }
