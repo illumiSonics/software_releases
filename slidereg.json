@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "published": "2026-11-18",
-  "notes": "",
-  "download": "https://github.com/illumiSonics/slidereg_releases/releases/tag/v0.1.0"
+  "version": "0.2.0",
+  "published": "2026-11-25",
+  "notes": "Update notifications: SlideReg now tells you when a new version is out",
+  "download": "https://github.com/illumiSonics/slidereg_releases/releases/tag/v0.2.0"
 }
