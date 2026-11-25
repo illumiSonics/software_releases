@@ -1,6 +1,6 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "published": "2026-11-25",
-  "notes": "Opens in its own app window when started from dataman's Register button",
-  "download": "https://github.com/illumiSonics/slidereg_releases/releases/tag/v0.3.0"
+  "notes": "Started from dataman, exports go straight into the dataset's folders",
+  "download": "https://github.com/illumiSonics/slidereg_releases/releases/tag/v0.4.0"
 }
