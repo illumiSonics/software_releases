@@ -1,6 +1,6 @@
 {
-  "version": "0.5.0",
+  "version": "0.6.0",
   "published": "2026-11-25",
-  "notes": "Open folder buttons; Register opens SlideReg in its own app window (needs SlideReg 0.3)",
-  "download": "https://github.com/illumiSonics/dataman_releases/releases/tag/v0.5.0"
+  "notes": "Register: SlideReg exports straight into the dataset (needs SlideReg 0.4)",
+  "download": "https://github.com/illumiSonics/dataman_releases/releases/tag/v0.6.0"
 }
