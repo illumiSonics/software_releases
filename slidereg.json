@@ -1,6 +1,6 @@
 {
-  "version": "0.6.3",
+  "version": "0.6.5",
   "published": "2026-11-26",
-  "notes": "Fixes an error box when closing slidereg",
-  "download": "https://github.com/illumiSonics/slidereg_releases/releases/tag/v0.6.3"
+  "notes": "Manual alignment: drag to rotate and scroll to scale; starts from the dataset's existing annotations when opened from dataman",
+  "download": "https://github.com/illumiSonics/slidereg_releases/releases/tag/v0.6.5"
 }
