@@ -1,6 +1,6 @@
 {
-  "version": "0.7.2",
-  "published": "2026-11-25",
-  "notes": "Progress shown while a mask is made; better Train from marks masks (no scattering channel)",
-  "download": "https://github.com/illumiSonics/dataman_releases/releases/tag/v0.7.2"
+  "version": "0.7.3",
+  "published": "2026-11-26",
+  "notes": "Install updates from inside dataman; recipe builder slide search and rules",
+  "download": "https://github.com/illumiSonics/dataman_releases/releases/tag/v0.7.3"
 }
