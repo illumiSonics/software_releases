@@ -1,6 +1,6 @@
 {
-  "version": "0.7.10",
+  "version": "0.7.11",
   "published": "2026-11-26",
-  "notes": "Slide view shows a new coordinate table; recipe list starts collapsed; SlideReg opens the slide's annotations (needs SlideReg 0.6.8)",
-  "download": "https://github.com/illumiSonics/dataman_releases/releases/tag/v0.7.10"
+  "notes": "Check now finds a release made minutes ago",
+  "download": "https://github.com/illumiSonics/dataman_releases/releases/tag/v0.7.11"
 }
