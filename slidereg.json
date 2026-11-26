@@ -1,6 +1,6 @@
 {
-  "version": "0.7.0",
+  "version": "0.7.1",
   "published": "2026-11-26",
-  "notes": "Fixed stand-in (register on a virtual stain of the fixed slide) and averaged registration channels",
-  "download": "https://github.com/illumiSonics/slidereg_releases/releases/tag/v0.7.0"
+  "notes": "Ctrl+Z undoes annotation edits; Contrast window can hide annotations",
+  "download": "https://github.com/illumiSonics/slidereg_releases/releases/tag/v0.7.1"
 }
