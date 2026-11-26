@@ -1,6 +1,6 @@
 {
-  "version": "0.6.9",
+  "version": "0.7.0",
   "published": "2026-11-26",
-  "notes": "Check now finds a release made minutes ago",
-  "download": "https://github.com/illumiSonics/slidereg_releases/releases/tag/v0.6.9"
+  "notes": "Fixed stand-in (register on a virtual stain of the fixed slide) and averaged registration channels",
+  "download": "https://github.com/illumiSonics/slidereg_releases/releases/tag/v0.7.0"
 }
