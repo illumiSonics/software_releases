@@ -1,6 +1,6 @@
 {
-  "version": "0.6.0",
-  "published": "2026-11-25",
-  "notes": "Register: SlideReg exports straight into the dataset (needs SlideReg 0.4)",
-  "download": "https://github.com/illumiSonics/dataman_releases/releases/tag/v0.6.0"
+  "version": "0.7.0",
+  "published": "2026-11-26",
+  "notes": "Train from marks: tissue masks for MLI scans; Register passes the mask to SlideReg and suggests one first",
+  "download": "https://github.com/illumiSonics/dataman_releases/releases/tag/v0.7.0"
 }
