@@ -1,6 +1,6 @@
 {
-  "version": "0.7.5",
+  "version": "0.7.6",
   "published": "2026-11-26",
-  "notes": "Opens on Settings: open or create a dataset from the right side; dataset pages grayed out until one is open",
-  "download": "https://github.com/illumiSonics/dataman_releases/releases/tag/v0.7.5"
+  "notes": "New Datasets page: open or create a dataset; dataman starts there when none is open",
+  "download": "https://github.com/illumiSonics/dataman_releases/releases/tag/v0.7.6"
 }
