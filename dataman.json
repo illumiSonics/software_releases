@@ -1,6 +1,6 @@
 {
-  "version": "0.7.7",
+  "version": "0.7.8",
   "published": "2026-11-26",
-  "notes": "Edit annotations in SlideReg from the slide page; the dataset view follows a recipe saved again under the same name",
-  "download": "https://github.com/illumiSonics/dataman_releases/releases/tag/v0.7.7"
+  "notes": "Updates install reliably on Windows: the app window no longer keeps the app folder in use",
+  "download": "https://github.com/illumiSonics/dataman_releases/releases/tag/v0.7.8"
 }
