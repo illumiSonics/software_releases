@@ -1,6 +1,6 @@
 {
-  "version": "0.5.0",
+  "version": "0.6.0",
   "published": "2026-11-26",
-  "notes": "Registration and auto annotation work on MLI scans (inverted / label-free contrast, padded mosaics, pixel-size mismatch)",
-  "download": "https://github.com/illumiSonics/slidereg_releases/releases/tag/v0.5.0"
+  "notes": "Tissue masks from dataman: registration and auto annotation use them instead of detecting the tissue",
+  "download": "https://github.com/illumiSonics/slidereg_releases/releases/tag/v0.6.0"
 }
