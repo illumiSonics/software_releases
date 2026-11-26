@@ -1,6 +1,6 @@
 {
-  "version": "0.7.6",
+  "version": "0.7.7",
   "published": "2026-11-26",
-  "notes": "New Datasets page: open or create a dataset; dataman starts there when none is open",
-  "download": "https://github.com/illumiSonics/dataman_releases/releases/tag/v0.7.6"
+  "notes": "Edit annotations in SlideReg from the slide page; the dataset view follows a recipe saved again under the same name",
+  "download": "https://github.com/illumiSonics/dataman_releases/releases/tag/v0.7.7"
 }
