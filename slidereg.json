@@ -1,6 +1,6 @@
 {
-  "version": "0.6.0",
-  "published": "2026-11-26",
-  "notes": "Tissue masks from dataman: registration and auto annotation use them instead of detecting the tissue",
-  "download": "https://github.com/illumiSonics/slidereg_releases/releases/tag/v0.6.0"
+  "version": "0.6.1",
+  "published": "2026-11-25",
+  "notes": "Registration panel built around the stages; exports compressed with zstd by default",
+  "download": "https://github.com/illumiSonics/slidereg_releases/releases/tag/v0.6.1"
 }
