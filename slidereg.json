@@ -1,6 +1,6 @@
 {
-  "version": "0.6.7",
+  "version": "0.6.8",
   "published": "2026-11-26",
-  "notes": "Settings button in the header bar",
-  "download": "https://github.com/illumiSonics/slidereg_releases/releases/tag/v0.6.7"
+  "notes": "Settings open in their own window; Export also saves the transform; opens the dataset's annotation file from dataman",
+  "download": "https://github.com/illumiSonics/slidereg_releases/releases/tag/v0.6.8"
 }
